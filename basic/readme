@@ -1,0 +1,4 @@
+1 load image into minikube from docker: 
+docker save
+minikube image load 
+https://webkul.com/blog/error-open-var-lib-docker-tmp-docker-import/
