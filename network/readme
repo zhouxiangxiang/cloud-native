@@ -1,0 +1,37 @@
+Autonomous System:
+https://www.cloudflare-cn.com/learning/network-layer/what-is-an-autonomous-system/
+
+BGP: Border Gateway Protocol
+https://www.geeksforgeeks.org/border-gateway-protocol-bgp/
+https://www.techtarget.com/searchnetworking/definition/BGP-Border-Gateway-Protocol
+https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+https://www.cnblogs.com/qiuhom-1874/p/15440860.html
+
+OSPF: Open Shortest Path First
+https://www.geeksforgeeks.org/open-shortest-path-first-ospf-protocol-fundamentals
+
+https://www.catchpoint.com/dynamic-routing-protocols/bgp-vs-ospf
+
+PoD: A point of delivery, or PoD, is "a module of network, compute, storage, and application components that work together to deliver networking services. The PoD is a repeatable design pattern, and its components maximize the modularity, scalability, and manageability of data centers."
+
+VPC:
+
+IGW: internet gateway
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
+
+Stacking（堆叠）
+https://baike.baidu.com/item/交换机堆叠/8605132
+https://info.support.huawei.com/info-finder/encyclopedia/zh/堆叠.html
+https://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5252-what-is-stacking.html
+
+
+Access/Distribution/Core Switch(接入层、汇聚层、核心层)
+https://cn.fs.com/blog/24304.html
+https://www.heyoptics.net/blogs/wiki/core-switch-vs-distribution-switch-vs-access-switch
+
+
+ASW : access switch
+DSW : distribution switch, 
+CSW : core switches 
+
+https://www.cnblogs.com/zy09/p/11761758.html
