@@ -11,3 +11,20 @@ https://andblog.cn/3074
 https://zhuanlan.zhihu.com/p/94418251
 https://blog.csdn.net/xixihahalelehehe/article/details/115370095
 https://zhuanlan.zhihu.com/p/567225649
+
+
+Endpoints
+https://www.cnblogs.com/lianngkyle/p/15550784.html
+
+
+CNI(Contianer Network Interface):
+https://medium.com/@jain.sm/flannel-vs-calico-a-battle-of-l2-vs-l3-based-networking-5a30cd0a3ebd
+https://www.suse.com/c/rancher_blog/comparing-kubernetes-cni-providers-flannel-calico-canal-and-weave/
+
+LoadBalancer:
+https://medium.com/avmconsulting-blog/external-ip-service-type-for-kubernetes-ec2073ef5442
+https://traefik.io/blog/combining-ingress-controllers-and-external-load-balancers-with-kubernetes/
+
+
+Pod update solution:
+https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33
