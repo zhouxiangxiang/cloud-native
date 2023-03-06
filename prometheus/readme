@@ -1,0 +1,8 @@
+promtool check config prometheus.yml
+
+curl -k https://localhost:9104/metrics
+https://docs.vmware.com/en/VMware-Tanzu-SQL-with-MySQL-for-Kubernetes/1.5/tanzu-mysql-k8s/GUID-monitoring.html
+https://stackoverflow.com/questions/59767178/mysqld-exporter-data-source-name-in-mysqld-exporter-service
+
+https://wiki.shileizcc.com/confluence/display/KUB/Kubernetes+Prometheus+Operator+MySQL+Exporter
+https://blog.devops.dev/monitoring-mysql-using-prometheus-and-grafana-in-kubernetes-16e7ae3de5dd
