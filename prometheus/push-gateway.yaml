@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: prom-push-gateway
+spec:
+  selector:
+    matchLabels:
+      mon: prom-push-gateway
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        mon: prom-push-gateway
+    spec:
+      containers:
+      - image: prom/pushgateway
+        imagePullPolicy: IfNotPresent
+        name: prom-push-gateway
+        ports:
+        - containerPort: 9091
+          name: push-gateway
